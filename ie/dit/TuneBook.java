@@ -14,6 +14,8 @@ public class TuneBook
 	public TuneBook()
 	{
 
+		String bookTitle;
+
 		loadTuneBook(bookTitle);
 
 	}
